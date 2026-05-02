@@ -1,7 +1,0 @@
-# Discord User Checker
-This bot scans users in voice channels based on their badges or username lengths.
-
-## Installation
-1. `npm install`
-2. Create the `.env` file and enter your information.
-3. Run it with `node index.js`.
